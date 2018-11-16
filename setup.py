@@ -17,7 +17,7 @@ tests_require = (
 )
 
 setup(
-    name='odata',
+    name='tctc_odata',
     version='0.3',
     description='A simple library for read/write access to OData services.',
     license='MIT',
